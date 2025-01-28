@@ -1,8 +1,8 @@
 
-title = "Hello, I'm Angelina"
+title = "I'm Jane Doe"
 author = "Jane Doe"
 #copyright = "2020-2021"
-description = "MSc Epidemiology | Ludwig Maximilian University of Munich"
+description = "Call me Jane"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -13,10 +13,8 @@ customJs = []
 mainSections = ["post"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
-# Google Analytics
-googleAnalytics = "UA-196111394-4"
 # Form Spree Contact Form
-contactFormAction = "https://formspree.io/f/mdkaopdd"
+#contactFormAction = "https://formspree.io/f/your-form-hash-here"
 #contactFormReCaptcha = "your-site-key-here"
 # Google Fonts
 #googleFonts = ["Indie+Flower", "Roboto:ital,wght@0,100;0,400;0,700;1,400"]
@@ -61,17 +59,22 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[socialIcons]]
 icon = "fa-brands fa-linkedin"
 title = "Linkedin"
-url = "https://www.linkedin.com/in/angelinajong"
+url = "https://de.linkedin.com/"
 
 [[socialIcons]]
 icon = "fa-brands fa-github"
 title = "GitHub"
-url = "https://github.com/AJ-web-Git"
+url = "https://github.com/lxndrblz/anatole/"
+
+[[socialIcons]]
+icon = "fa-brands fa-instagram"
+title = "instagram"
+url = "https://www.instagram.com/"
 
 [[socialIcons]]
 icon = "fa-solid fa-envelope"
 title = "e-mail"
-url = "mailto:angelinajong98@gmail.com"
+url = "mailto:mail@example.com"
 
 [mermaid]
 # enable = true

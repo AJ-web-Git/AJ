@@ -1,11 +1,10 @@
----
-aliases:
-- certifications
-author: Hugo Authors
-date: "2022-04-10"
-description: Hugo Certifications
-title: Certifications
----
++++
+title = "Certifications"
+description = "Hugo Certifications"
+date = "2022-04-10"
+aliases = ["certifications"]
+author = "Hugo Authors"
++++
 
 ## 3 Best Hugo Courses, Training, Classes & Tutorials Online
 

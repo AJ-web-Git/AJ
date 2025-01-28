@@ -1,10 +1,10 @@
 ---
-date: "2022-03-18T21:47:41+00:00"
+title: 'The Notice Shortcode'
+date: 2022-03-18T21:47:41+00:00
 draft: false
 tags:
-- demo
-- shortcode
-title: The Notice Shortcode
+  - demo
+  - shortcode
 ---
 
 The notice shortcode supports three different types of disclaimers. These are as following:

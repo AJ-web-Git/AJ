@@ -1,12 +1,10 @@
----
-aliases:
-- awards
-author: Hugo Authors
-date: "2022-04-10"
-description: Hugo Awards, an annual literary award for the best science fiction or
-  fantasy works
-title: Awards
----
++++
+title = "Awards"
+description = "Hugo Awards, an annual literary award for the best science fiction or fantasy works"
+date = "2022-04-10"
+aliases = ["awards"]
+author = "Hugo Authors"
++++
 
 Hugo Award - from Wikipedia: [Hugo Award](https://en.wikipedia.org/wiki/Hugo_Award)
 
